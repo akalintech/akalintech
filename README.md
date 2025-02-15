@@ -74,7 +74,7 @@
 
 ---
 
-## 📧 **Contact Me**:
+## 📧 **Contact AKALIN TECH**:
 
 - 📧 Email: [**akalintechcontact@proton.me**](mailto:akalintechcontact@proton.me) ✨  
 - 🌐 Website: [**www.akalin.tech**](https://www.akalin.tech) 💻
