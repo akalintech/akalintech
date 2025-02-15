@@ -1,7 +1,8 @@
 # 🚀 Welcome to My Development World! 🌍
-
-
+---
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+---
+
 
 ## 💻 **Languages I Work With**:
 
@@ -70,6 +71,18 @@
 
 - **AI (LLM) Automations** 🤖  
   (Harness the power of AI for your business)
+
+---
+
+## 📧 **Contact Me**:
+
+- 📧 Email: [**akalintechcontact@proton.me**](mailto:akalintechcontact@proton.me) ✨  
+- 🌐 Website: [**www.akalin.tech**](https://www.akalin.tech) 💻
+
+## 🌟 **Check Out My Latest Project**:
+
+- 🌍 **E-Commerce Platform**: [**ecommerce1.akalin.tech**](https://ecommerce1.akalin.tech) 🛒💥  
+  Explore the latest online store with sleek design and smooth functionality! ✨🛍️📦
 
 ---
 
