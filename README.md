@@ -79,7 +79,7 @@
 - 📧 Email: [**akalintechcontact@proton.me**](mailto:akalintechcontact@proton.me) ✨  
 - 🌐 Website: [**www.akalin.tech**](https://www.akalin.tech) 💻
 
-## 🌟 **Check Out My Latest Project**:
+## 🌟 **Check Out AKALIN TECH Latest Project**:
 
 - 🌍 **E-Commerce Platform**: [**ecommerce1.akalin.tech**](https://ecommerce1.akalin.tech) 🛒💥  
   Explore the latest online store with sleek design and smooth functionality! ✨🛍️📦
